@@ -3,7 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/** 
+ * Student Name: Golden Pamela Apillanes 
+ * Student ID: 300867201    
+ * Date: June 24th 2016 
+ * Description: Midterm - Lotto Game 2016 
+ * Version: 0.01
+ */
 namespace COMP123_S2016_Midterm_300867201
 {
     /**
@@ -13,7 +19,7 @@ namespace COMP123_S2016_Midterm_300867201
      * 
      * @class Program
      */
-    class Program
+    public class Program
     {
         // Instantiate lotto649 object
         static Lotto649 lotto649 = new Lotto649();
